@@ -1,0 +1,6 @@
+/* Write your CSS here */
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}

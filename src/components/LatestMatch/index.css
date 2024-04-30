@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  margin: 30px;
+}
+.infocontainer {
+  background-color: black;
+  border-radius: 10px;
+  border-width: 0px;
+  height: 670px;
+  width: 350px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text {
+  color: whitesmoke;
+
+  text-align: initial;
+}
+h1 {
+  color: black;
+}
+.textcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 5px;
+}
+hr {
+  color: white;
+  width: 320px;
+}
